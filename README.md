@@ -1,5 +1,5 @@
-# ProjetoDiogo
-projeto para ajudar o diogo nos codigos
+# ProjetoFullStack
+MiniGuia para se tornar um FullStack baseado em criação de JOGOS
 
 
 ------------------------------------------------------
