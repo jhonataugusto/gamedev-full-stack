@@ -1,4 +1,4 @@
-# ProjetoFullStack
+# Projeto Fullstack para games (online)
 MiniGuia para se tornar um FullStack baseado em criação de JOGOS
 
 
